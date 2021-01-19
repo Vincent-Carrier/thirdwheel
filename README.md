@@ -1,13 +1,13 @@
 # ThirdWheel
 
 The dating application where users can be matchmakers for other users.
-You can find love, or you can create love!
+Created by Vincent Carrier and Aaron Lang as a final project for the Lighthouse Labs Web Bootcamp.
 
 [![ThirdWheel Demo](https://i.imgur.com/QXcw4HK.jpg)](https://www.youtube.com/watch?v=rTRVW-fQdfM&feature=youtu.be)
 
-## Tech Stack
-### Front End
-React, Axios, Socket.io, SASS
+## Frontend stack
+React, Socket.io, SASS
 
-### Back End
+## Backend stack
 NodeJS, Express, PostgreSQL
+
